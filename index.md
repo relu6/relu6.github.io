@@ -5,7 +5,7 @@ layout: page
 callouts: home_callouts
 hero_image: /img/home.jpg
 hero_darken: true
-image: /home.jpg
+image: /img/home.jpg
 show_sidebar: false
 ---
 # Bulma Clean Theme demo website
