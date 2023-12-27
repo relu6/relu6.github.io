@@ -4,7 +4,7 @@ layout: page
 # callouts: home_callouts
 # hero_image: /img/home.jpg
 # hero_darken: true
-image: /images.jpg
+image: /images.jpeg
 show_sidebar: false
 hide_hero: true
 hide_footer: false
