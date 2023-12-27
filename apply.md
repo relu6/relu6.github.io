@@ -1,10 +1,14 @@
 ---
-layout: archive
-title: "Apply for FDP"
-permalink: /apply/
-author_profile: true
+layout: page
+# callouts: home_callouts
+# hero_image: /img/home.jpg
+# hero_darken: true
+# image: /img/home.jpg
+show_sidebar: false
 ---
+
 <style>body {text-align: justify}</style>
+# Apply
 ### Who can apply
 Professionals and researchers in various domains of engineering, including those
 affiliated with the government, aided or self-financing colleges and polytechnic colleges, research institutes and consultancies are encouraged to apply.

@@ -1,5 +1,4 @@
 ---
-title: Schedule
 layout: page
 # callouts: home_callouts
 # hero_image: /img/home.jpg
@@ -9,4 +8,5 @@ show_sidebar: false
 ---
 
 <style>body {text-align: justify}</style>
+# Schedule
 ### Updating soon ...
