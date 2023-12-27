@@ -1,10 +1,9 @@
 # Site Settings
 lang: en
-title: FDP on Research Trends \n in Machine Learning based Signal Proessing
-tagline: FDP on Research Trends \n in Machine Learning based Signal Proessing
+title: FDP on Research Trends in Machine Learning based Signal Proessing
+tagline: FDP on Research Trends in Machine Learning based Signal Proessing
 email: 
-description: >
-  FDP on Research Trends in Machine Learning based Signal Proessing
+description: FDP on Research Trends in Machine Learning based Signal Proessing
 baseurl: "/"
 url: "https://relu6.github.io/"
 permalink: pretty
@@ -12,7 +11,7 @@ permalink: pretty
 gh_sponsor: 
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
-fixed_navbar: top
+#fixed_navbar: top
 direction: auto
 
 paginate: 5
