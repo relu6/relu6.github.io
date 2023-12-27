@@ -1,7 +1,7 @@
 # Site Settings
 lang: en
-title: FDP on Research Trends \nin Machine Learning based Signal Proessing
-tagline: FDP on Research Trends \nin Machine Learning based Signal Proessing
+title: FDP on Research Trends \n in Machine Learning based Signal Proessing
+tagline: FDP on Research Trends \n in Machine Learning based Signal Proessing
 email: 
 description: >
   FDP on Research Trends in Machine Learning based Signal Proessing
@@ -12,8 +12,8 @@ permalink: pretty
 gh_sponsor: 
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
-#fixed_navbar: top
-#direction: one of <ltr, rtl, auto>, default: ltr
+fixed_navbar: top
+direction: auto
 
 paginate: 5
 paginate_path: "/blog/page:num"
