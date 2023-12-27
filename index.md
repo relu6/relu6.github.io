@@ -1,10 +1,10 @@
 ---
 title: FDP on Research trends in ML based Signal Processing
 layout: page
-callouts: home_callouts
+# callouts: home_callouts
 # hero_image: /img/home.jpg
 # hero_darken: true
-# image: /img/home.jpg
+image: /img/images.jpg
 show_sidebar: false
 hide_hero: true
 hide_footer: false
