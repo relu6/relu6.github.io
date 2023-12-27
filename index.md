@@ -3,10 +3,10 @@ title: FDP on Research trends in Machine Learning based Signal Processing
 subtitle: FDP on Research trends in Machine Learning based Signal Processing
 layout: page
 callouts: home_callouts
-show_sidebar: true
 hero_image: /img/recipe-example.jpg
 hero_darken: true
 image: /img/recipe-example.jpg
+show_sidebar: false
 ---
 # Bulma Clean Theme demo website
 
