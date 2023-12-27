@@ -1,7 +1,7 @@
 # Site Settings
 lang: en
-title: FDP on Research Trends in ML based Signal Processing
-tagline: FDP on Research Trends in ML based Signal Processing
+# title: FDP on Research Trends in ML based Signal Processing
+# tagline: FDP on Research Trends in ML based Signal Processing
 email: 
 description: FDP on Research Trends in ML based Signal Processing
 baseurl: "/"
