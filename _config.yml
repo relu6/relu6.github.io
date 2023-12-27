@@ -1,9 +1,9 @@
 # Site Settings
 lang: en
-title: FDP on Research Trends in Machine Learning based Signal Proessing
-tagline: FDP on Research Trends in Machine Learning based Signal Proessing
+title: FDP on Research Trends in ML based Signal Processing
+tagline: FDP on Research Trends in ML based Signal Processing
 email: 
-description: FDP on Research Trends in Machine Learning based Signal Proessing
+description: FDP on Research Trends in ML based Signal Processing
 baseurl: "/"
 url: "https://relu6.github.io"
 permalink: pretty
