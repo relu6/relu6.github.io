@@ -15,6 +15,7 @@ hide_footer: true
 Professionals and researchers in various domains of engineering, including those
 affiliated with the government, aided or self-financing colleges and polytechnic colleges, research institutes and consultancies are encouraged to apply.
 
+<style>body {text-align: justify}</style>
 ### How to apply
 Technical education department applicants should apply through [DTE Training Portal](http://admissions.dtekerala.gov.in/tpms)
 

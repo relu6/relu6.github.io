@@ -1,8 +1,10 @@
 - name: Home
   link: /
-- name: Blog
-  link: /blog/
-- name: Products
-  link: /products/
-- name: Privacy Policy
-  link: /privacy-policy/
+- name: Apply
+  link: /apply/
+- name: Brochure
+  link: /files/ml-fdp-brochure.pdf
+- name: Schedule
+  link: /schedule/
+- name: Downloads
+  link: /downloads/

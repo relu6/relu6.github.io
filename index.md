@@ -1,5 +1,5 @@
 ---
-title: FDP on Research trends in Machine Learning based Signal Processing
+title: FDP on Research trends in ML based Signal Processing
 layout: page
 # callouts: home_callouts
 # hero_image: /img/home.jpg
@@ -7,11 +7,11 @@ layout: page
 # image: /img/home.jpg
 show_sidebar: false
 hide_hero: true
-hide_footer: true
+hide_footer: false
 ---
 <style>body {text-align: justify}</style>
-<style>h1 {line-height: 0.5}</style>
-<style>h2 {line-height: 0.5}</style>
+<style>h1 {line-height: 0.25}</style>
+<style>h2 {line-height: 0.25}</style>
 <h1>FDP on Research Trends in ML based Signal Processing </h1>
 <h2>College of Engineering Trivandrum </h2>
 <p><b>January 29 - February 2, 2024 </b></p>
