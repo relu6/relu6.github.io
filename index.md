@@ -2,10 +2,7 @@
 title: Bulma Clean Theme
 subtitle: This is the demo site for Bulma Clean Theme
 layout: post
-callouts: home_callouts
-show_sidebar: true
-image: '/img/static-site-generator.jpg'
-published: true
+image: 'https://relu6.github.io//img/static-site-generator.jpg'
 ---
 
 # Bulma Clean Theme demo website
