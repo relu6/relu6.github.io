@@ -1,10 +1,12 @@
 ---
-layout: archive
-title: "Schedule"
-permalink: /schedule/
-author_profile: true
-redirect_from:
-  - /schedule
+title: Schedule
+layout: docs
+# callouts: home_callouts
+# hero_image: /img/home.jpg
+hero_darken: true
+image: /img/home.jpg
+show_sidebar: false
 ---
+
 <style>body {text-align: justify}</style>
 ### Updating soon ...
