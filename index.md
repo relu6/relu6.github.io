@@ -10,10 +10,11 @@ hide_hero: true
 hide_footer: true
 ---
 <style>body {text-align: justify}</style>
-<style>p {line-height: 1.}</style>
-<p> # FDP on Research Trends in ML based Signal Processing </p>
-<p> ## College of Engineering Trivandrum </p>
-<p> ### January 29 - February 2, 2024 </p>
+<style>h1 {line-height: 0.5}</style>
+<style>h2 {line-height: 0.5}</style>
+<h1>FDP on Research Trends in ML based Signal Processing </h1>
+<h2>College of Engineering Trivandrum </h2>
+<b><p>January 29 - February 2, 2024 </p></b>
 
 In the rapidly evolving field of machine learning-based signal processing, several key research trends have emerged, driving innovation and advancements. One prominent area of focus lies in the development of deep learning architectures tailored for signal processing tasks, such as speech recognition, image processing, and communication systems. There is also a growing emphasis on the integration of machine learning with traditional signal processing techniques to exploit the complementary strengths of both approaches. 
 
