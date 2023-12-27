@@ -6,7 +6,7 @@ layout: page
 # image: /img/home.jpg
 hide_hero: true
 show_sidebar: false
-hide_footer: true
+hide_footer: false
 ---
 <style>body {text-align: justify}</style>
 # Schedule

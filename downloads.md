@@ -6,7 +6,7 @@ layout: page
 # image: /img/home.jpg
 show_sidebar: false
 hide_hero: true
-hide_footer: true
+hide_footer: false
 ---
 <style>body {text-align: justify}</style>
 # Downloads
