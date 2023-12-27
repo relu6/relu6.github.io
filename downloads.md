@@ -5,6 +5,7 @@ layout: page
 # hero_darken: true
 # image: /img/home.jpg
 show_sidebar: false
+hide_hero: true
 ---
 <style>body {text-align: justify}</style>
 # Downloads

@@ -2,10 +2,11 @@
 title: FDP on Research trends in Machine Learning based Signal Processing
 layout: page
 callouts: home_callouts
-hero_image: /img/home.jpg
-hero_darken: true
-image: /img/home.jpg
+# hero_image: /img/home.jpg
+# hero_darken: true
+# image: /img/home.jpg
 show_sidebar: false
+hide_hero: true
 ---
 <style>body {text-align: justify}</style>
 **FDP on Research Trends in Machine Learning based Signal Processing**\
