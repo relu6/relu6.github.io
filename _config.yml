@@ -2,10 +2,10 @@
 lang: en
 title: FDP on Research Trends in Machine Learning based Signal Proessing
 tagline: Bulma Clean Theme
-email: your-email@domain.com
+email: 
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
+baseurl: "/"
 url: "https://relu6.github.io/"
 permalink: pretty
 #favicon: /path/to/favicon.png
