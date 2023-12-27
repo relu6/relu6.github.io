@@ -1,10 +1,11 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
-layout: post
-image: 'https://relu6.github.io//img/static-site-generator.jpg'
+title: FDP on Research trends \nin Machine Learning based Signal Processing
+subtitle: FDP on Research trends in Machine Learning based Signal Processing
+layout: page
+callouts: home_callouts
+show_sidebar: true
+hero_image: /img/recipe-example.jpg
 ---
-
 # Bulma Clean Theme demo website
 
 This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
