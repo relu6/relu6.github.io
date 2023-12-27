@@ -1,5 +1,5 @@
 ---
-title: FDP on Research trends \nin Machine Learning based Signal Processing
+title: FDP on Research trends in Machine Learning based Signal Processing
 subtitle: FDP on Research trends in Machine Learning based Signal Processing
 layout: page
 callouts: home_callouts
