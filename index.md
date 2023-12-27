@@ -5,6 +5,8 @@ layout: page
 callouts: home_callouts
 show_sidebar: true
 hero_image: /img/recipe-example.jpg
+hero_darken: true
+image: /img/recipe-example.jpg
 ---
 # Bulma Clean Theme demo website
 
