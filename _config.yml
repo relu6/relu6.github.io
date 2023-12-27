@@ -5,7 +5,7 @@ tagline: FDP on Research Trends in Machine Learning based Signal Proessing
 email: 
 description: FDP on Research Trends in Machine Learning based Signal Proessing
 baseurl: "/"
-url: "https://relu6.github.io/"
+url: "https://relu6.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
 gh_sponsor: 

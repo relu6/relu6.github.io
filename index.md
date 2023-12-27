@@ -7,49 +7,16 @@ hero_darken: true
 image: /img/home.jpg
 show_sidebar: false
 ---
-# Bulma Clean Theme demo website
+<style>body {text-align: justify}</style>
+**FDP on Research Trends in Machine Learning based Signal Processing**\
+**College of Engineering Trivandrum**\
+**January 29 - Febuary 2, 2024**\
+In the rapidly evolving field of machine learning-based signal processing, several key research trends have emerged, driving innovation and advancements. One prominent area of focus lies in the development of deep learning architectures tailored for signal processing tasks, such as speech recognition, image processing, and communication systems. There is also a growing emphasis on the integration of machine learning with traditional signal processing techniques to exploit the complementary strengths of both approaches. 
 
-This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
+As the field continues to evolve, interdisciplinary collaboration between experts in machine learning, signal processing, and domain-specific applications remains pivotal for pushing the boundaries of innovation in this dynamic research domain. The course is designed to give an insight into the basic theory, techniques and practical realization of Machine Learning algorithms pertaining to the image, speech and audio, music and neural signal processing domains. 
 
-[![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
-![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg)
-![GitHub Repo stars](https://img.shields.io/github/stars/chrisrhymes/bulma-clean-theme?style=social)
+Academic researchers and industry experts will share their experience on application of machine learning techniques in the following areas.
+* Image processing
+* Speech & Music signal processing
+* Neural signal processing
 
-## Ruby Gem
-
-The ruby gem is available on the Ruby Gems website at the following location. [https://rubygems.org/gems/bulma-clean-theme](https://rubygems.org/gems/bulma-clean-theme).
-
-## GitHub Pages
-
-The theme can be used with GitHub Pages by setting the `remote_theme` in your Jekyll sites `_config.yml`
-
-```yml
-remote_theme: chrisrhymes/bulma-clean-theme
-```
-
-## Documentation
-
-For full instructions, please see the [Documentation](/bulma-clean-theme/docs/)
-
-## Page Layouts
-
-This demo site showcases the available page layout options. 
-
-* Sidebar
-* Menubar
-* Tabs
-* Footer
-* Hero
-* Contents
-* Landing Page With Callouts
-* Sponsors Page
-* Image Gallery
-* Recipe Page
-* Blog
-* Post
-
-## Supported By JetBrains
-
-JetBrains have kindly provided an Open Source licence to aid in the future development of Bulma Clean Theme.
-
-[![JetBrains](img/jetbrains-variant-4.svg)](https://www.jetbrains.com/?from=bulma-clean-theme)
