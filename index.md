@@ -4,6 +4,8 @@ subtitle: This is the demo site for Bulma Clean Theme
 layout: post
 callouts: home_callouts
 show_sidebar: true
+image: '/img/static-site-generator.jpg'
+published: true
 ---
 
 # Bulma Clean Theme demo website
