@@ -2,10 +2,12 @@
   link: /apply/
 - name: Brochure
   link: /files/ml-fdp-brochure.pdf
+- name: Resource Persons
+  link: /resource/
 - name: Schedule
   link: /schedule/
-- name: Downloads
-  link: /downloads/ 
+# - name: Downloads
+#   link: /downloads/ 
 # - name: dropdown
 #   link: /#
 #   dropdown:
