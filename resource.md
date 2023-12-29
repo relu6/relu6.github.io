@@ -20,7 +20,7 @@ hide_footer: false
 ### Dr.Jayesh M.K.
 #### Samsung Electronics, Bangalore
 ### Dr.Deepu Vijayasenan
-### National Institute of Technology, Surathkal
+#### National Institute of Technology, Surathkal
 ### Dr.Rajeev Rajan
 #### Government Engineering College, Barton Hill
 ### Dr.Anurenjan P.R.
