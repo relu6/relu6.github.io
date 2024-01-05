@@ -11,7 +11,7 @@ hide_footer: false
 <style>body {text-align: justify}</style>
 
 # Resource Persons
-### Sriram Ganapathy
+### Dr.Sriram Ganapathy
 #### Indian Institute of Science, Bengaluru
 ### Dr.Deepak Mishra
 #### Indian Institute of Space Science and Technology, Trivandrum
