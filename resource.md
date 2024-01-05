@@ -11,6 +11,8 @@ hide_footer: false
 <style>body {text-align: justify}</style>
 
 # Resource Persons
+### Sriram Ganapathy
+#### Indian Institute of Science, Bengaluru
 ### Dr.Deepak Mishra
 #### Indian Institute of Space Science and Technology, Trivandrum
 ### Dr.Suresh K.
@@ -18,7 +20,7 @@ hide_footer: false
 ### Dr.Hari R.
 #### Government Engineering College, Barton Hill
 ### Dr.Jayesh M.K.
-#### Samsung Electronics, Bangalore
+#### Samsung Electronics, Bengaluru
 ### Dr.Deepu Vijayasenan
 #### National Institute of Technology, Surathkal
 ### Dr.Rajeev Rajan
