@@ -1,4 +1,4 @@
- ---
+---
 layout: page
 # callouts: home_callouts
 # hero_image: /img/home.jpg
