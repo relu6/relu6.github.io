@@ -17,7 +17,7 @@ hide_footer: false
 #### Indian Institute of Space Science and Technology, Trivandrum
 ### Dr.Suresh K.
 #### Government Engineering College, Idukki
-### Dr. Santhoshkumar S.
+### Dr.Santhoshkumar S.
 #### Government Engineering College, Idukki
 ### Dr.Hari R.
 #### Government Engineering College, Barton Hill
