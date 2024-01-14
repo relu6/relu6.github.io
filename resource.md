@@ -1,4 +1,4 @@
----
+ ---
 layout: page
 # callouts: home_callouts
 # hero_image: /img/home.jpg
@@ -16,6 +16,8 @@ hide_footer: false
 ### Dr.Deepak Mishra
 #### Indian Institute of Space Science and Technology, Trivandrum
 ### Dr.Suresh K.
+#### Government Engineering College, Idukki
+### Dr. Santhoshkumar S.
 #### Government Engineering College, Idukki
 ### Dr.Hari R.
 #### Government Engineering College, Barton Hill
