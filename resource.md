@@ -27,8 +27,6 @@ hide_footer: false
 #### National Institute of Technology, Surathkal
 ### Dr.Rajeev Rajan
 #### Government Engineering College, Barton Hill
-### Dr.Anurenjan P.R.
-#### Government Engineering College, Idukki
 ### Dr. Jerrin Thomas Panachakel
 #### College of Engineering Trivandrum
 ### Dr.Revathy  
