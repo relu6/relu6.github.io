@@ -29,5 +29,5 @@ hide_footer: false
 #### Government Engineering College, Barton Hill
 ### Dr. Jerrin Thomas Panachakel
 #### College of Engineering Trivandrum
-### Dr.Revathy  
-#### KELTRON
+### Mr. Srijith C. S., Dr.Revathy Sivanandan
+#### KELTRON Traffic Signals Division
