@@ -6,8 +6,8 @@
   link: /resource/
 - name: Schedule
   link: /files/schedule.pdf
-# - name: Downloads
-#   link: /downloads/ 
+- name: Downloads
+  link: /downloads/ 
 # - name: dropdown
 #   link: /#
 #   dropdown:
