@@ -13,6 +13,6 @@ hide_footer: false
 
 ## Hands-on Session files
 
-### Dr. Anurenjan P.R. - January 30
+### * Dr. Anurenjan P.R. - January 30
 #### [Set 1](/files/apr_session/ML_FDP_hands_on_2024_exp_1.zip)
 #### [Set 2](/files/apr_session/ML_FDP_hands_on_2024_exp_2.zip)
